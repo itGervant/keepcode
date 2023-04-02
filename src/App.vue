@@ -74,13 +74,11 @@ export default {
       ],
       filterOption: [
         { value: '', name: 'Не выбрано' },
-        { value: '', name: 'Все' },
         { value: 'Заключен', name: 'Заключен' },
         { value: 'Расторгнут', name: 'Расторгнут' },
       ],
       dateOptions: [
         { value: '', name: 'Не выбрано' },
-        { value: '', name: 'Все' },
         { value: 'asc', name: 'Дате' },
         { value: 'desc', name: 'Убыванию' },
       ],
@@ -227,5 +225,9 @@ span {
 
 .select span {
   text-align: left;
+}
+
+a {
+  cursor: pointer;
 }
 </style>

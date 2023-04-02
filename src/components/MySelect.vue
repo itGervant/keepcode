@@ -72,6 +72,7 @@ export default {
     z-index: 5;
     background: white;
     border-radius: 5px;
+    border: 1px solid lightgray;
 
 
 

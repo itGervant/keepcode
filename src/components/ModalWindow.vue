@@ -17,7 +17,7 @@
 
             </div>
             <div class="window-document">
-                <input class="window-document-text" type="text" placeholder="Название документа">
+                <input class="window-document-text" type="text" placeholder="Название документа &#42;">
                 <input class="window-document-text" type="text" placeholder="Номер">
             </div>
             <div class="window-date">
